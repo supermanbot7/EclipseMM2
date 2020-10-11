@@ -36,6 +36,7 @@ By using the script you agree to the following:
 5. If joining the Discord server, you must follow the [Discord Community Guidelines](https://discord.com/guidelines) and [Discord ToS](https://discord.com/terms).
 6. If you fail to follow any of the Discord Rules, you will be punished accordingly.
 7. If your script version is shut down/closed, you cannot try to force it to function.
+8. This script is **not** meant to be compatible with other scripts. Bug reports of the script while another script is running will be voided.
 
 If you agree to all of the above, then you are free to use the script.
 
