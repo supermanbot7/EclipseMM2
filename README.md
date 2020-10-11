@@ -6,9 +6,9 @@ Hello! This is a script for [Murder Mystery 2](https://roblox.com/games/14282329
 
 Eclipse is compatible with the following:
 * Synapse X ($20)
-* Protosmasher (BETA)
-* Sirhurt
-* Sentinel
+* Protosmasher
+* ~~Sirhurt~~ (NO LONGER SUPPORTED)
+* ~~Sentinel~~ (NO LONGER SUPPORTED)
 
 **No free exploits are supported.**
 
