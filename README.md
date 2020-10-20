@@ -6,8 +6,8 @@ Hello! This is a script for [Murder Mystery 2](https://roblox.com/games/14282329
 
 Eclipse is compatible with the following:
 * Synapse X ($20)
-* Protosmasher
-* ~~Sirhurt~~ (NO LONGER SUPPORTED)
+* ~~Protosmasher~~ WIP
+* ~~Sirhurt~~ (%50 NO LONGER SUPPORTED)
 * ~~Sentinel~~ (NO LONGER SUPPORTED)
 
 **No free exploits are supported.**
@@ -40,7 +40,7 @@ By using the script you agree to the following:
 
 If you agree to all of the above, then you are free to use the script.
 
-^This information will be hashed, so it cannot be decrypted or read raw by the developers.
+^This information will be hashed, so it cannot be decrypted or read raw by the developers. This helps protect your sensitive data while providing the same security and functionallity as it normally would.
 
 ## Credits
 
