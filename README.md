@@ -44,4 +44,8 @@ If you agree to all of the above, then you are free to use the script.
 
 ## Credits
 
+API: £thanoj1#3304
+Discord Bot: £thanoj1#3304
+ToS and Github: £thanoj1#3304
+
 This script has been made by £thanoj1#3304 and Doggo#0931.
