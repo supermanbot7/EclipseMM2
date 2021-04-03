@@ -1,9 +1,9 @@
 print("Checking")
 if not _G.MadeAnnouncement then
   game.StarterGui:SetCore("SendNotification", {
-      Title = "Discord Fix";
-      Text = "Sorry about that! The Request Discord Invite should work now.";
-      Duration = 10;
+      Title = "Big Update Soon";
+      Text = "Revamping autofarm and fixing many bugs soon.";
+      Duration = 5;
   }) 
   _G.MadeAnnouncement = true
 end
