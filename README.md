@@ -1,20 +1,17 @@
 # EclipseMM2 (Deprecated soon, replace by Eclipse Hub)
 
-Hello! This is a script for [Murder Mystery 2](https://roblox.com/games/142823291/Murder-Mystery-2). The script has assassin compatiility for the gamemode inside of Murder Mystery 2.
+Hello! This is a script for [Murder Mystery 2](https://roblox.com/games/142823291/Murder-Mystery-2). The script has assassin compatiility for the gamemode inside of Murder Mystery 2. *This script is being discontinued in favor of Eclipse Hub in late September 2021*
 
 ## Compatibility
 
 Eclipse is compatible with the following:
 * Synapse X ($20)
-* Protosmasher
-* Sirhurt
+* Sirhurt (prob)
 * Krnl
 * Coco Z
 * Fluxus Windows (partial)
 * LX63 (partial)
 * Paradella X (partial)
-* Coze 0.18
-* Oxygen (partial)
 
 Electron and Scriptware has been reported to work with the script, but are not officially supported.
 
@@ -58,4 +55,4 @@ Failure to follow the Terms of Service will result in a blacklist/ban from using
 * ToS and Github: £thanoj1#3304
 * Original UI: lennard#4496 (Modified by £thanoj1#3304)
 
-This script has been made by £thanoj1#3304 (Current/Main Dev) and Doggo#0931 (Old Dev).
+This script has been made by £thanoj1#3304 (Current/Main Dev) and Doggo#0931 (Old Dev). **£thanoj1#3304 is the ONLY current dev, all others are skids.**
