@@ -1,10 +1,10 @@
 print("Checking")
---[[if not _G.MadeAnnouncement then
+if not _G.ForceCredits then
   game.StarterGui:SetCore("SendNotification", {
-      Title = "Big Update Soon";
-      Text = "Revamping autofarm and fixing many bugs soon.";
+      Title = "Credits";
+      Text = "This current script is many ONLY by £thanoj1#3304, everyone else are skids.";
       Duration = 5;
   }) 
-  _G.MadeAnnouncement = true
-end]]
---Too many idiots asking for when the update will come out
+  _G.ForceCredits = true
+end
+--So many skids taking credit for my work lmao
