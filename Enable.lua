@@ -2,7 +2,7 @@ print("Checking")
 if not _G.ForceCredits then
   game.StarterGui:SetCore("SendNotification", {
       Title = "Credits";
-      Text = "This current script is many ONLY by £thanoj1#3304, everyone else are skids.";
+      Text = "This current script is made ONLY by £thanoj1#3304, everyone else are skids.";
       Duration = 5;
   }) 
   _G.ForceCredits = true
