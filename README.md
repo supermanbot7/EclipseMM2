@@ -1,4 +1,4 @@
-# EclipseMM2
+# EclipseMM2 (Deprecated soon, replace by Eclipse Hub)
 
 Hello! This is a script for [Murder Mystery 2](https://roblox.com/games/142823291/Murder-Mystery-2). The script has assassin compatiility for the gamemode inside of Murder Mystery 2.
 
